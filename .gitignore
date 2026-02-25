@@ -1,2 +1,9 @@
 .env
 .vscode/
+
+package-lock.json
+node_modules
+
+# Rust build artifacts
+/target
+**/target
