@@ -4,6 +4,9 @@
 package-lock.json
 node_modules
 
+# Dependencies
+lib/
+
 # Rust build artifacts
 /target
 **/target
